@@ -5,7 +5,7 @@ Python DOS-style station GUI tool
 A lightweight Python-based terminal station inspired by classic DOS style.
 
 ## Run
-export NO_AT_BRIDGE=1
+
 python3 oldschool_dos_station.py
 
 ## Notes
